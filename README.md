@@ -7,7 +7,8 @@ This is a **Connect_4_Game** that i created using strong **Data structures and c
     - *Horizontally*
         
         ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ca4a9d92-73f6-48cb-bd8e-46f8b1507fe2/Untitled.png)
-        
+        ![Untitled](https://user-images.githubusercontent.com/84893882/162575155-5d2801ef-2fea-47c1-9e82-8422c7ce1b88.png)
+
     - *Vertically*
         
         ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e6cddfe2-3631-42b2-99b3-be56665d25d4/Untitled.png)
@@ -22,5 +23,6 @@ This is a **Connect_4_Game** that i created using strong **Data structures and c
 - Rows will be filled from bottom to top in any column.
 
 **Some visual references**
-https://user-images.githubusercontent.com/84893882/162574604-a22005b5-29fc-457d-9183-d3b1087f1382.mp4
+https://user-images.githubusercontent.com/84893882/162575143-dcd76f14-a2b5-484d-9599-0d85d4055533.mp4
+
 

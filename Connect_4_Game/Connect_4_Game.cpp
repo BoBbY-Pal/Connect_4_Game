@@ -48,7 +48,7 @@ void PrintTitle()
 << CYAN << "                                                                                                                                Made by @BoBbY"
 << "\n\n";
     cout << WHITE;
-    Sleep(200);
+    Sleep(150);
 }
 void display()
 {
